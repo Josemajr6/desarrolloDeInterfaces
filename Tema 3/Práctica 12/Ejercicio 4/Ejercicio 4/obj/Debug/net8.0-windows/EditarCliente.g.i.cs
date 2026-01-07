@@ -61,7 +61,7 @@ namespace Ejercicio_4 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Ejercicio 4;component/editarcliente.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Ejercicio 4;V1.0.0.0;component/editarcliente.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\EditarCliente.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
