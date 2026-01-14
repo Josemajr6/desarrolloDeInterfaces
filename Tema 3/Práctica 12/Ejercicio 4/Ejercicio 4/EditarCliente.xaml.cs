@@ -11,6 +11,11 @@ namespace Ejercicio_4
         private string conexion;
         private DataTable dtClientes;
 
+
+        /// <summary>
+        /// Initializes a new instance of the <see cref="EditarCliente"/> class.
+        /// </summary>
+        /// <param name="conexion">The conexion.</param>
         public EditarCliente(string conexion)
         {
             InitializeComponent();
@@ -18,6 +23,10 @@ namespace Ejercicio_4
             CargarClientes();
         }
 
+
+        /// <summary>
+        /// Cargars the clientes.
+        /// </summary>
         private void CargarClientes()
         {
             try
@@ -39,6 +48,12 @@ namespace Ejercicio_4
             }
         }
 
+
+        /// <summary>
+        /// Handles the CellEditEnding event of the dgClientes control.
+        /// </summary>
+        /// <param name="sender">The source of the event.</param>
+        /// <param name="e">The <see cref="DataGridCellEditEndingEventArgs"/> instance containing the event data.</param>
         private void dgClientes_CellEditEnding(object sender, DataGridCellEditEndingEventArgs e)
         {
             if (e.EditAction != DataGridEditAction.Commit) return;

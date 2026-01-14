@@ -21,12 +21,24 @@ namespace Ejercicio_4
     public partial class AgregarCliente : Window
     {
         private string conexion;
+
+
+        /// <summary>
+        /// Initializes a new instance of the <see cref="AgregarCliente"/> class.
+        /// </summary>
+        /// <param name="conexion">The conexion.</param>
         public AgregarCliente(string conexion)
         {
             InitializeComponent();
             this.conexion = conexion;
         }
 
+
+        /// <summary>
+        /// Handles the Click event of the btnAgregar control.
+        /// </summary>
+        /// <param name="sender">The source of the event.</param>
+        /// <param name="e">The <see cref="RoutedEventArgs"/> instance containing the event data.</param>
         private void btnAgregar_Click(object sender, RoutedEventArgs e)
         {
             string nombreF = tbNombre.Text;

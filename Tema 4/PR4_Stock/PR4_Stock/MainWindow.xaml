@@ -9,7 +9,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <WindowsFormsHost x:Name="_host" Margin="10">
-            <rv:ReportViewer x:Name=""></rv:ReportViewer>
+            <rv:ReportViewer></rv:ReportViewer>
         </WindowsFormsHost>
     </Grid>
 </Window>

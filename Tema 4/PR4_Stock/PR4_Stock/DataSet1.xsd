@@ -12,13 +12,13 @@
   <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet1" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1">
     <xs:complexType>
       <xs:choice minOccurs="0" maxOccurs="unbounded">
-        <xs:element name="stock" msprop:Generator_RowEvHandlerName="stockRowChangeEventHandler" msprop:Generator_RowDeletedName="stockRowDeleted" msprop:Generator_RowDeletingName="stockRowDeleting" msprop:Generator_RowEvArgName="stockRowChangeEvent" msprop:Generator_TablePropName="stock" msprop:Generator_RowChangedName="stockRowChanged" msprop:Generator_RowChangingName="stockRowChanging" msprop:Generator_TableClassName="stockDataTable" msprop:Generator_RowClassName="stockRow" msprop:Generator_TableVarName="tablestock" msprop:Generator_UserTableName="stock">
+        <xs:element name="stock" msprop:Generator_RowClassName="stockRow" msprop:Generator_RowEvHandlerName="stockRowChangeEventHandler" msprop:Generator_RowDeletedName="stockRowDeleted" msprop:Generator_RowDeletingName="stockRowDeleting" msprop:Generator_RowEvArgName="stockRowChangeEvent" msprop:Generator_TablePropName="stock" msprop:Generator_RowChangedName="stockRowChanged" msprop:Generator_UserTableName="stock" msprop:Generator_RowChangingName="stockRowChanging" msprop:Generator_TableClassName="stockDataTable" msprop:Generator_TableVarName="tablestock">
           <xs:complexType>
             <xs:sequence>
-              <xs:element name="id" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_UserColumnName="id" type="xs:string" />
-              <xs:element name="descripcion" msprop:Generator_ColumnPropNameInRow="descripcion" msprop:Generator_ColumnPropNameInTable="descripcionColumn" msprop:Generator_ColumnVarNameInTable="columndescripcion" msprop:Generator_UserColumnName="descripcion" type="xs:string" minOccurs="0" />
-              <xs:element name="unidades" msprop:Generator_ColumnPropNameInRow="unidades" msprop:Generator_ColumnPropNameInTable="unidadesColumn" msprop:Generator_ColumnVarNameInTable="columnunidades" msprop:Generator_UserColumnName="unidades" type="xs:string" minOccurs="0" />
-              <xs:element name="precio_venta" msprop:Generator_ColumnPropNameInRow="precio_venta" msprop:Generator_ColumnPropNameInTable="precio_ventaColumn" msprop:Generator_ColumnVarNameInTable="columnprecio_venta" msprop:Generator_UserColumnName="precio_venta" type="xs:string" minOccurs="0" />
+              <xs:element name="id" msprop:Generator_UserColumnName="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnVarNameInTable="columnid" type="xs:int" />
+              <xs:element name="descripcion" msprop:Generator_UserColumnName="descripcion" msprop:Generator_ColumnPropNameInTable="descripcionColumn" msprop:Generator_ColumnPropNameInRow="descripcion" msprop:Generator_ColumnVarNameInTable="columndescripcion" type="xs:string" minOccurs="0" />
+              <xs:element name="unidades" msprop:Generator_UserColumnName="unidades" msprop:Generator_ColumnPropNameInTable="unidadesColumn" msprop:Generator_ColumnPropNameInRow="unidades" msprop:Generator_ColumnVarNameInTable="columnunidades" type="xs:int" minOccurs="0" />
+              <xs:element name="precio_venta" msprop:Generator_UserColumnName="precio_venta" msprop:Generator_ColumnPropNameInTable="precio_ventaColumn" msprop:Generator_ColumnPropNameInRow="precio_venta" msprop:Generator_ColumnVarNameInTable="columnprecio_venta" type="xs:decimal" minOccurs="0" />
             </xs:sequence>
           </xs:complexType>
         </xs:element>

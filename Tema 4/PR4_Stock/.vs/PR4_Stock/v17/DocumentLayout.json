@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alumno\\Documents\\PR4_Stock\\",
+  "WorkspaceRootPath": "C:\\Users\\josem\\Documents\\GitHub\\desarrolloDeInterfaces\\Tema 4\\PR4_Stock\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D041F0E-2DEA-4E1D-B73F-A9030965C3D7}|PR4_Stock\\PR4_Stock.csproj|C:\\Users\\alumno\\Documents\\PR4_Stock\\pr4_stock\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D041F0E-2DEA-4E1D-B73F-A9030965C3D7}|PR4_Stock\\PR4_Stock.csproj|solutionrelative:pr4_stock\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D041F0E-2DEA-4E1D-B73F-A9030965C3D7}|PR4_Stock\\PR4_Stock.csproj|c:\\users\\alumno\\documents\\pr4_stock\\pr4_stock\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "AbsoluteMoniker": "D:0:0:{1D041F0E-2DEA-4E1D-B73F-A9030965C3D7}|PR4_Stock\\PR4_Stock.csproj|C:\\Users\\josem\\Documents\\GitHub\\desarrolloDeInterfaces\\Tema 4\\PR4_Stock\\pr4_stock\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
       "RelativeMoniker": "D:0:0:{1D041F0E-2DEA-4E1D-B73F-A9030965C3D7}|PR4_Stock\\PR4_Stock.csproj|solutionrelative:pr4_stock\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D041F0E-2DEA-4E1D-B73F-A9030965C3D7}|PR4_Stock\\PR4_Stock.csproj|C:\\Users\\alumno\\Documents\\PR4_Stock\\pr4_stock\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1D041F0E-2DEA-4E1D-B73F-A9030965C3D7}|PR4_Stock\\PR4_Stock.csproj|c:\\users\\josem\\documents\\github\\desarrollodeinterfaces\\tema 4\\pr4_stock\\pr4_stock\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D041F0E-2DEA-4E1D-B73F-A9030965C3D7}|PR4_Stock\\PR4_Stock.csproj|solutionrelative:pr4_stock\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D041F0E-2DEA-4E1D-B73F-A9030965C3D7}|PR4_Stock\\PR4_Stock.csproj|C:\\Users\\josem\\Documents\\GitHub\\desarrolloDeInterfaces\\Tema 4\\PR4_Stock\\pr4_stock\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1D041F0E-2DEA-4E1D-B73F-A9030965C3D7}|PR4_Stock\\PR4_Stock.csproj|solutionrelative:pr4_stock\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D041F0E-2DEA-4E1D-B73F-A9030965C3D7}|PR4_Stock\\PR4_Stock.csproj|C:\\Users\\alumno\\Documents\\PR4_Stock\\pr4_stock\\dataset1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D041F0E-2DEA-4E1D-B73F-A9030965C3D7}|PR4_Stock\\PR4_Stock.csproj|c:\\users\\josem\\documents\\github\\desarrollodeinterfaces\\tema 4\\pr4_stock\\pr4_stock\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1D041F0E-2DEA-4E1D-B73F-A9030965C3D7}|PR4_Stock\\PR4_Stock.csproj|solutionrelative:pr4_stock\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D041F0E-2DEA-4E1D-B73F-A9030965C3D7}|PR4_Stock\\PR4_Stock.csproj|C:\\Users\\josem\\Documents\\GitHub\\desarrolloDeInterfaces\\Tema 4\\PR4_Stock\\pr4_stock\\dataset1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D041F0E-2DEA-4E1D-B73F-A9030965C3D7}|PR4_Stock\\PR4_Stock.csproj|solutionrelative:pr4_stock\\dataset1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D041F0E-2DEA-4E1D-B73F-A9030965C3D7}|PR4_Stock\\PR4_Stock.csproj|C:\\Users\\alumno\\Documents\\PR4_Stock\\pr4_stock\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "AbsoluteMoniker": "D:0:0:{1D041F0E-2DEA-4E1D-B73F-A9030965C3D7}|PR4_Stock\\PR4_Stock.csproj|C:\\Users\\josem\\Documents\\GitHub\\desarrolloDeInterfaces\\Tema 4\\PR4_Stock\\pr4_stock\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
       "RelativeMoniker": "D:0:0:{1D041F0E-2DEA-4E1D-B73F-A9030965C3D7}|PR4_Stock\\PR4_Stock.csproj|solutionrelative:pr4_stock\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
     }
   ],
@@ -30,19 +34,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\josem\\Documents\\GitHub\\desarrolloDeInterfaces\\Tema 4\\PR4_Stock\\PR4_Stock\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "PR4_Stock\\DataSet1.xsd",
+              "ToolTip": "C:\\Users\\josem\\Documents\\GitHub\\desarrolloDeInterfaces\\Tema 4\\PR4_Stock\\PR4_Stock\\DataSet1.xsd",
+              "RelativeToolTip": "PR4_Stock\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-12-15T10:13:10.443Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Report1.rdlc [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\PR4_Stock\\PR4_Stock\\Report1.rdlc",
+              "DocumentMoniker": "C:\\Users\\josem\\Documents\\GitHub\\desarrolloDeInterfaces\\Tema 4\\PR4_Stock\\PR4_Stock\\Report1.rdlc",
               "RelativeDocumentMoniker": "PR4_Stock\\Report1.rdlc",
-              "ToolTip": "C:\\Users\\alumno\\Documents\\PR4_Stock\\PR4_Stock\\Report1.rdlc [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\josem\\Documents\\GitHub\\desarrolloDeInterfaces\\Tema 4\\PR4_Stock\\PR4_Stock\\Report1.rdlc [Dise\u00F1o]",
               "RelativeToolTip": "PR4_Stock\\Report1.rdlc [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
               "WhenOpened": "2025-12-16T12:26:58.15Z",
@@ -50,11 +62,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DataSet1.cs",
-              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\PR4_Stock\\PR4_Stock\\DataSet1.cs",
+              "DocumentMoniker": "C:\\Users\\josem\\Documents\\GitHub\\desarrolloDeInterfaces\\Tema 4\\PR4_Stock\\PR4_Stock\\DataSet1.cs",
               "RelativeDocumentMoniker": "PR4_Stock\\DataSet1.cs",
-              "ToolTip": "C:\\Users\\alumno\\Documents\\PR4_Stock\\PR4_Stock\\DataSet1.cs",
+              "ToolTip": "C:\\Users\\josem\\Documents\\GitHub\\desarrolloDeInterfaces\\Tema 4\\PR4_Stock\\PR4_Stock\\DataSet1.cs",
               "RelativeToolTip": "PR4_Stock\\DataSet1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -63,22 +75,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DataSet1.xsd",
-              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\PR4_Stock\\PR4_Stock\\DataSet1.xsd",
-              "RelativeDocumentMoniker": "PR4_Stock\\DataSet1.xsd",
-              "ToolTip": "C:\\Users\\alumno\\Documents\\PR4_Stock\\PR4_Stock\\DataSet1.xsd*",
-              "RelativeToolTip": "PR4_Stock\\DataSet1.xsd*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2025-12-15T10:13:10.443Z"
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\josem\\Documents\\GitHub\\desarrolloDeInterfaces\\Tema 4\\PR4_Stock\\PR4_Stock\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PR4_Stock\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\josem\\Documents\\GitHub\\desarrolloDeInterfaces\\Tema 4\\PR4_Stock\\PR4_Stock\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PR4_Stock\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T09:42:49.465Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\PR4_Stock\\PR4_Stock\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\josem\\Documents\\GitHub\\desarrolloDeInterfaces\\Tema 4\\PR4_Stock\\PR4_Stock\\MainWindow.xaml",
               "RelativeDocumentMoniker": "PR4_Stock\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\alumno\\Documents\\PR4_Stock\\PR4_Stock\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\josem\\Documents\\GitHub\\desarrolloDeInterfaces\\Tema 4\\PR4_Stock\\PR4_Stock\\MainWindow.xaml",
               "RelativeToolTip": "PR4_Stock\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-12-15T09:42:50.098Z",
@@ -86,15 +100,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\alumno\\Documents\\PR4_Stock\\PR4_Stock\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "PR4_Stock\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\alumno\\Documents\\PR4_Stock\\PR4_Stock\\MainWindow.xaml.cs",
-              "RelativeToolTip": "PR4_Stock\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T09:42:49.465Z",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\josem\\Documents\\GitHub\\desarrolloDeInterfaces\\Tema 4\\PR4_Stock\\PR4_Stock\\App.config",
+              "RelativeDocumentMoniker": "PR4_Stock\\App.config",
+              "ToolTip": "C:\\Users\\josem\\Documents\\GitHub\\desarrolloDeInterfaces\\Tema 4\\PR4_Stock\\PR4_Stock\\App.config",
+              "RelativeToolTip": "PR4_Stock\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-07T15:18:01.335Z",
               "EditorCaption": ""
             }
           ]

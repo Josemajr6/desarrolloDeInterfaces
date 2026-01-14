@@ -389,7 +389,7 @@ namespace PR4_Stock {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public stockRow AddstockRow(string id, string descripcion, string unidades, string precio_venta) {
+            public stockRow AddstockRow(int id, string descripcion, int unidades, decimal precio_venta) {
                 stockRow rowstockRow = ((stockRow)(this.NewRow()));
                 object[] columnValuesArray = new object[] {
                         id,
@@ -403,7 +403,7 @@ namespace PR4_Stock {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public stockRow FindByid(string id) {
+            public stockRow FindByid(int id) {
                 return ((stockRow)(this.Rows.Find(new object[] {
                             id})));
             }
@@ -434,13 +434,13 @@ namespace PR4_Stock {
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
             private void InitClass() {
-                this.columnid = new global::System.Data.DataColumn("id", typeof(string), null, global::System.Data.MappingType.Element);
+                this.columnid = new global::System.Data.DataColumn("id", typeof(int), null, global::System.Data.MappingType.Element);
                 base.Columns.Add(this.columnid);
                 this.columndescripcion = new global::System.Data.DataColumn("descripcion", typeof(string), null, global::System.Data.MappingType.Element);
                 base.Columns.Add(this.columndescripcion);
-                this.columnunidades = new global::System.Data.DataColumn("unidades", typeof(string), null, global::System.Data.MappingType.Element);
+                this.columnunidades = new global::System.Data.DataColumn("unidades", typeof(int), null, global::System.Data.MappingType.Element);
                 base.Columns.Add(this.columnunidades);
-                this.columnprecio_venta = new global::System.Data.DataColumn("precio_venta", typeof(string), null, global::System.Data.MappingType.Element);
+                this.columnprecio_venta = new global::System.Data.DataColumn("precio_venta", typeof(decimal), null, global::System.Data.MappingType.Element);
                 base.Columns.Add(this.columnprecio_venta);
                 this.Constraints.Add(new global::System.Data.UniqueConstraint("stockKey1", new global::System.Data.DataColumn[] {
                                 this.columnid}, true));
@@ -588,9 +588,9 @@ namespace PR4_Stock {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public string id {
+            public int id {
                 get {
-                    return ((string)(this[this.tablestock.idColumn]));
+                    return ((int)(this[this.tablestock.idColumn]));
                 }
                 set {
                     this[this.tablestock.idColumn] = value;
@@ -615,10 +615,10 @@ namespace PR4_Stock {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public string unidades {
+            public int unidades {
                 get {
                     try {
-                        return ((string)(this[this.tablestock.unidadesColumn]));
+                        return ((int)(this[this.tablestock.unidadesColumn]));
                     }
                     catch (global::System.InvalidCastException e) {
                         throw new global::System.Data.StrongTypingException("El valor de la columna \'unidades\' de la tabla \'stock\' es DBNull.", e);
@@ -631,10 +631,10 @@ namespace PR4_Stock {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public string precio_venta {
+            public decimal precio_venta {
                 get {
                     try {
-                        return ((string)(this[this.tablestock.precio_ventaColumn]));
+                        return ((decimal)(this[this.tablestock.precio_ventaColumn]));
                     }
                     catch (global::System.InvalidCastException e) {
                         throw new global::System.Data.StrongTypingException("El valor de la columna \'precio_venta\' de la tabla \'stock\' es DBNull.", e);
